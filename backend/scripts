@@ -1,0 +1,10 @@
+nodemon add nodemon -D // Development Dependency 
+
+// Tipos de parametros 
+
+Query Params: req.query (filtros, ordenação, paginação)
+Route Params: req.params (Recurso na alteração ou remoção)
+Body: Conteúdo da requisição (Informações em geral, nome, email, etc) 
+
+portquiz.net/27017 
+

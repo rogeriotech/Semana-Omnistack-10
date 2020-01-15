@@ -1,0 +1,8 @@
+yarn init
+
+If on Linux or Mac -> CTRL + SHIFT + P -> install 'code' command in PATH 
+
+yarn add express / npm install express 
+
+Searchable Subjects 
+- Semantic Versioning 
