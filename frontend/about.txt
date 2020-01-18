@@ -1,0 +1,21 @@
+robots.txt -> Indica ao Google quais páginas devem ser indexadas 
+
+JSX -> Mistura de JS e XML 
+
+3 Conceitos principais: 
+- Component: Bloco isolado de HTML,CSS,JS que não interfere no restante da aplicação 
+- Propriedade: Informações passadas de components pais para componentes filhos 
+- Estado: Informações mantidas pelo componente (Imutabilidade) 
+
+
+Fragment: Tag sem nomenclatura 
+
+
+Configurações do Settings para rodar o Emmet 
+
+"emmet.syntaxProfiles": {
+    "javascript": "jsx"
+},
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+}
